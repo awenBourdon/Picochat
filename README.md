@@ -1,6 +1,6 @@
 Picochat
 
-![Preview](preview.jpg)
+![Preview](preview.png)
 
 Dans le cadre de mon premier projet collectif à l'Ada, nous avons plongé dans le monde captivant du développement de jeux vidéo en collaborant sur la création d'un jeu en langage Lua, jouable sur Pico 8. Voici un aperçu de notre aventure :
 
